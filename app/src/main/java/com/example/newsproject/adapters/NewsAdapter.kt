@@ -47,7 +47,7 @@ class NewsAdapter: RecyclerView.Adapter<NewsAdapter.ArticleViewHolder>() {
                 .load(article.urlToImage)
                 .into(holder.binding.ivArticleImage)
 
-            holder.binding.tvSource.text = article.source.name
+            holder.binding.tvSource.text = article.source?.name
             holder.binding.tvTitle.text = article.title
             holder.binding.tvDescription.text = article.description
             holder.binding.tvPublishedAt.text = article.publishedAt
