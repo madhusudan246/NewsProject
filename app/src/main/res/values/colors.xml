@@ -8,5 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="colorPrimary">#FF3A44</color>
+    <color name="colorSecondary">#0080FF</color>
     <color name="bottomBarRect">#E0E0E0</color>
 </resources>
