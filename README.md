@@ -19,7 +19,7 @@ NewsBuddy is a modern news application that empowers users to stay informed with
 
 ## Getting Started
 
-1. Clone this repository using `git clone [https://github.com/madhusudan246/NewsProject.git](https://github.com/madhusudan246/NewsProject.git)`
+1. Clone this repository using `git clone https://github.com/madhusudan246/NewsProject.git`
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
 
